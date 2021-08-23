@@ -18,9 +18,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Microglia
+- Neurons
+- Zonkeys
 
 education:
   courses:
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:cw2622@cumc.columbia.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
