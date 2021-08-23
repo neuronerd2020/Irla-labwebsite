@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principle Investigator
 ---
 
 Clarissa Waites is a associate professor of neuroscience at Columbia Unversity Irving Medical Center in the William Black Building. Her research ...
