@@ -1,16 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Clarissa Waites, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assitant Professor of Pathology and Cell Biology (is this still the title with tenure?)
+Assitant Professor of Neuroscience (in the Taub Institute for Research on Alzheimer's Disease and the Aging Brain)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Columbia University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,15 +24,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Neuroscience
+    institution: University of California, San Francisco
+    year: do you want the year?
+  - course: BS in Biological Sciences
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: do you want the year?
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
