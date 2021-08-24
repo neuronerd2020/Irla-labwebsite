@@ -62,4 +62,7 @@ user_groups:
 - Researchers
 ---
 
+#add the publications from pubmed 
+#add the science on the front page
+
 Clarissa Waites is an associate professor of neuroscience at Columbia Unversity Irving Medical Center in the William Black Building. Her research ...
