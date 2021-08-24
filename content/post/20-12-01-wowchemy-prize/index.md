@@ -1,5 +1,5 @@
 ---
-title: Fifth Year Graduate Student Viktoriya Zhuravleva Defends Thesis Titled:
+title: Fifth Year Graduate Student Viktoriya Zhuravleva Defends Thesis Titled
 date: 2021-08-26
 ---
 
