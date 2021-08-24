@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Waites Lab Members
 subtitle:
 
 content:
@@ -19,7 +19,7 @@ content:
   - Principal Investigators
   - Researchers
   - Grad Students
-  - Administration
+  - Lab Technician(s)
   - Visitors
   - Alumni
 design:

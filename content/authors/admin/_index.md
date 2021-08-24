@@ -1,37 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Clarissa Waites, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assitant Professor of Pathology and Cell Biology (is this still the title with tenure?)/ Assitant Professor of Neuroscience (in the Taub Institute for Research on Alzheimer's Disease and the Aging Brain)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Columbia University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests ..............??
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Microglia
+- Neurons
+- Zonkeys
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Neuroscience
+    institution: University of California, San Francisco
+    year: do you want the year?
+  - course: BS in Biological Sciences
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: do you want the year?
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +37,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:cw2622@cumc.columbia.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=ZsYadcIAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +51,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: cw2622@cumc.columbia.edu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -68,6 +62,4 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Clarissa Waites is an associate professor of neuroscience at Columbia Unversity Irving Medical Center in the William Black Building. Her research ...
