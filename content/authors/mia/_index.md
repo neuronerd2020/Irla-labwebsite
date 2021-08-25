@@ -6,7 +6,7 @@ title: Mia Burke
 superuser: true
 
 # Role/position
-role: Assitant Professor of Pathology and Cell Biology (is this still the title with tenure?)/ Assitant Professor of Neuroscience (in the Taub Institute for Research on Alzheimer's Disease and the Aging Brain)
+role: Second Year Graduate Student in Pathology Program (ask what title she wants exactly)
 
 # Organizations/Affiliations
 organizations:
@@ -25,10 +25,10 @@ education:
   courses:
   - course: PhD in Neuroscience
     institution: University of California, San Francisco
-    year: do you want the year?
+    year: intended year of graduation
   - course: BS in Biological Sciences
-    institution: Stanford University
-    year: do you want the year?
+    institution: Carnegie Mellon
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
