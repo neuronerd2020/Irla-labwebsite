@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Mia Burke 
+title: Konner Kirwan 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assitant Professor of Pathology and Cell Biology (is this still the title with tenure?)/ Assitant Professor of Neuroscience (in the Taub Institute for Research on Alzheimer's Disease and the Aging Brain)
+role: Third Year Graduate Student in the Neuroscience Program (ask Konner what his exact title is)
 
 # Organizations/Affiliations
 organizations:
