@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Waites Lab** is located in the William Black Building at Columbia University Irving Medical Center.
+The **Waites Lab** is a research lab in the Taub Institute for Research on Alzheimer's Disease and the Aging Brain. We study whatever Clarissa wants to add here 
