@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: In the Waites Lab, Tori investigated the cellular trafficking pathways of proteins implicated in Alzheimer’s and Parkinson’s Diseases, focusing on Rab GTPases as regulators of these trafficking mechanisms. Prior to graduate school, Tori majored in Biology at the University of North Carolina at Chapel Hill and earned Highest Honors for researching the role of immune cells in HIV-induced neurotoxicity. Besides neuroscience research, Tori enjoys teaching group fitness classes, traveling around the world, exploring NYC, and mentoring students – particularly high schoolers applying to college and undergraduates applying to graduate school. Tori now works in the Pre-Award and Research Development office at Columbia’s Zuckerman Institute.  
+bio: 
 
 interests:
 - Ask Tori
@@ -62,4 +62,4 @@ user_groups:
 - Researchers
 ---
 
-Clarissa Waites is an associate professor of neuroscience at Columbia Unversity Irving Medical Center in the William Black Building. Her research ...
+In the Waites Lab, Tori investigated the cellular trafficking pathways of proteins implicated in Alzheimer’s and Parkinson’s Diseases, focusing on Rab GTPases as regulators of these trafficking mechanisms. Prior to graduate school, Tori majored in Biology at the University of North Carolina at Chapel Hill and earned Highest Honors for researching the role of immune cells in HIV-induced neurotoxicity. Besides neuroscience research, Tori enjoys teaching group fitness classes, traveling around the world, exploring NYC, and mentoring students – particularly high schoolers applying to college and undergraduates applying to graduate school. Tori now works in the Pre-Award and Research Development office at Columbia’s Zuckerman Institute.  
