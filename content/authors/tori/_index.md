@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tori Zhuravleva
+title: Tori Zhuravleva, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
