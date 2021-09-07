@@ -6,7 +6,7 @@ title: Tori Zhuravleva
 superuser: true
 
 # Role/position
-role: Viktoriya Zhuravleva, Ph.D. 
+role: Waites Lab Alumnus
 
 # Organizations/Affiliations
 organizations:
@@ -17,16 +17,16 @@ organizations:
 bio: 
 
 interests:
-- Ask Tori
-- Ask Tori
-- Ask Tori
+- NA
+- NA
+- NA
 
 education:
   courses:
   - course: Ph.D. Neurobiology and Behavior Program
     institution: Columbia University
     year: 2016 - 2021
-  - course: BS in Biological Sciences
+  - course: BS in Biology
     institution: UNC Chapel Hill
     year: 2016
 
