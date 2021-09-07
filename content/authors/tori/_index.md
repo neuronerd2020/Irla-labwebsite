@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Konner Kirwan 
+title: Tori Zhuravleva
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Third Year Graduate Student in the Neuroscience Program (ask Konner what his exact title is)
+role: Viktoriya Zhuravleva, Ph.D. 
 
 # Organizations/Affiliations
 organizations:
@@ -14,21 +14,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests ..............??
+bio: In the Waites Lab, Tori investigated the cellular trafficking pathways of proteins implicated in Alzheimer’s and Parkinson’s Diseases, focusing on Rab GTPases as regulators of these trafficking mechanisms. Prior to graduate school, Tori majored in Biology at the University of North Carolina at Chapel Hill and earned Highest Honors for researching the role of immune cells in HIV-induced neurotoxicity. Besides neuroscience research, Tori enjoys teaching group fitness classes, traveling around the world, exploring NYC, and mentoring students – particularly high schoolers applying to college and undergraduates applying to graduate school. Tori now works in the Pre-Award and Research Development office at Columbia’s Zuckerman Institute.  
 
 interests:
-- Microglia
-- Neurons
-- Zonkeys
+- Ask Tori
+- Ask Tori
+- Ask Tori
 
 education:
   courses:
-  - course: PhD in Neuroscience
-    institution: University of California, San Francisco
-    year: do you want the year?
+  - course: Ph.D. Neurobiology and Behavior Program
+    institution: Columbia University
+    year: 2016 - 2021
   - course: BS in Biological Sciences
-    institution: Stanford University
-    year: do you want the year?
+    institution: UNC Chapel Hill
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
