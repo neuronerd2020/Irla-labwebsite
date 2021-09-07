@@ -60,7 +60,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+- Lab Technician(s)
 ---
 
 Irla Belli began as a research technician in the Waites Lab after graduating from Harvard College. She is interested in pursuing an MD/PhD. During her free time, Irla loves to explore the NYC food scene, try out coffee shops (she has a running list of the best and worst coffee shops around), weight train, run, and do yoga. 
