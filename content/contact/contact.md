@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Please fill out this form if you would like to contact the Waites Lab directly. We always welcome communication from passionate, dedicated, and curious scientists!
+Please feel free to send us an email if you would like to contact us directly. We always welcome communication from passionate, dedicated, and curious scientists!
