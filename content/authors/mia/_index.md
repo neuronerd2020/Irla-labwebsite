@@ -6,7 +6,7 @@ title: Mia Burke
 superuser: true
 
 # Role/position
-role: Second Year Graduate Student in Pathology Program (ask what title she wants exactly)
+role: PhD Student in Pathobiology and Mechanisms of Disease
 
 # Organizations/Affiliations
 organizations:
@@ -14,20 +14,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests ..............??
+bio:
 
 interests:
-- Microglia
-- Neurons
-- Zonkeys
+- Neuroimmunology 
+- Glia
+- Synaptic pruning
+- Neurodegeneration
 
 education:
   courses:
-  - course: PhD in Neuroscience
-    institution: University of California, San Francisco
-    year: intended year of graduation
   - course: BS in Biological Sciences
-    institution: Carnegie Mellon
+    institution: Carnegie Mellon University
     year: 2020
 
 # Social/Academic Networking
@@ -51,7 +49,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: cw2622@cumc.columbia.edu
+email: mrb2277@cumc.columbia.edu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -62,4 +60,4 @@ user_groups:
 - Graduate Students
 ---
 
-Clarissa Waites is an associate professor of neuroscience at Columbia Unversity Irving Medical Center in the William Black Building. Her research ...
+Mia graduated with a BS in Biological Sciences and received University Honors from Carnegie Mellon University in 2020. In her undergraduate research, Mia utilized CRISPR to study transcription factors in genetic regulatory networks of the fungal pathogen, Candida albicans. Additionally, as a research intern at Harvard Medical School, Mia elucidated spatial and developmental expression profiles of complement proteins in schizophrenia. This experience ultimately solidified her interests in neurobiology and communication between the central nervous and immune systems. Since joining the Waites lab in May 2021, Mia has been investigating how different brain cell types and exosome biogenesis pathways contribute to the spread of pathogenic Tau in Alzheimer’s Disease. Outside of the lab, she enjoys cooking new recipes, walking in Central Park, FaceTiming with her dogs, and giving dramatic retellings of stories at lab happy hour. 
