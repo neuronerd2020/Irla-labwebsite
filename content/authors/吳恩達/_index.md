@@ -21,8 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Jogging
-- Sewing
+- Disease-oriented research
+- Neurons and glia
+- Neuroimmunology
+- Neurodegenerative and neuropsychiatric disorder research
 
 education:
   courses:
