@@ -18,9 +18,9 @@ content:
   
   # Email form provider
   form:
-    provider: netlify
+    provider: gmail
     formspree:
-      id:
+      id: waiteslab@gmail.com
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Please fill out this form if you would like to contact the Waites Lab directly. IDK if you want me to put anything here about grad student lab tech or post doc positions. i know sometimes people will write things that say if they are actively looking etc. 
+Please fill out this form if you would like to contact the Waites Lab directly. We always welcome communication from passionate, dedicated, and curious scientists!
