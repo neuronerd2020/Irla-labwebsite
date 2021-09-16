@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Konner Kirwan 
+title: Fang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Third Year Graduate Student in the Neuroscience Program (ask Konner what his exact title is)
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Post docs
 ---
 
-Clarissa Waites is an associate professor of neuroscience at Columbia Unversity Irving Medical Center in the William Black Building. Her research ...
+Fang is a postdoc in the lab studying
