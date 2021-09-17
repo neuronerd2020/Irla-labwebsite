@@ -6,7 +6,7 @@ title: Mia Burke
 superuser: true
 
 # Role/position
-role: PhD Student in Pathobiology and Mechanisms of Disease
+role: Graduate Student in Pathobiology and Mechanisms of Disease
 
 # Organizations/Affiliations
 organizations:

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Clarissa Waites, PhD
+title: Clarissa Waites, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assitant Professor of Pathology and Cell Biology (is this still the title with tenure?)/ Assitant Professor of Neuroscience (in the Taub Institute for Research on Alzheimer's Disease and the Aging Brain)
+role: Associate Professor of Pathology & Cell Biology (in the Taub Institute for Research on Alzheimer’s Disease and the Aging Brain); Associate Professor of Neuroscience
 
 # Organizations/Affiliations
 organizations:
@@ -14,21 +14,19 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests ..............??
+bio: 
 
 interests:
-- Microglia
-- Neurons
-- Zonkeys
+
 
 education:
   courses:
-  - course: PhD in Neuroscience
+  - course: Ph.D. in Neuroscience
     institution: University of California, San Francisco
-    year: do you want the year?
-  - course: BS in Biological Sciences
+    year: 2001
+  - course: B.S. in Biological Sciences
     institution: Stanford University
-    year: do you want the year?
+    year: 1995
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,7 +38,7 @@ social:
   link: 'mailto:cw2622@cumc.columbia.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZsYadcIAAAAJ&hl=en
@@ -65,4 +63,4 @@ user_groups:
 #add the publications from pubmed 
 #add the science on the front page
 
-Clarissa Waites is an associate professor of neuroscience at Columbia Unversity Irving Medical Center in the William Black Building. Her research ...
+Clarissa is the Waites lab cheerleader, fundraiser, copy editor, and primary ‘Dad joke’ generator. Prior to venturing east to start her lab at Columbia, Clarissa spent many years on the West Coast as an undergraduate at Stanford University, a graduate student in Robert Edwards’ lab at UCSF, and a postdoctoral fellow in Craig Garner’s lab at Stanford. She has had a long-standing interest in the mechanisms of neuronal communication and protein homeostasis, including synapse formation, synaptic transmission and plasticity, and synaptic protein turnover. When she’s not at the lab, Clarissa can be found biking, hiking, or climbing in upstate New York, or enjoying the cultural and culinary wonders of NYC.

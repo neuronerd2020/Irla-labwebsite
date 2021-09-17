@@ -6,7 +6,7 @@ title: Konner Kirwan
 superuser: true
 
 # Role/position
-role: Third Year Graduate Student in the Neuroscience Program (ask Konner what his exact title is)
+role: Graduate Student in Neurobiology and Behavior
 
 # Organizations/Affiliations
 organizations:
@@ -14,21 +14,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests ..............??
+bio: 
 
 interests:
-- Microglia
-- Neurons
-- Zonkeys
+- Protein trafficking
+- Synaptic health
+- Neurodegeneration and aging
 
 education:
   courses:
-  - course: PhD in Neuroscience
-    institution: University of California, San Francisco
-    year: do you want the year?
-  - course: BS in Biological Sciences
-    institution: Stanford University
-    year: do you want the year?
+  - course: BS in Neuroscience and Cognitive Science with Honors; BS Molecular and Cellular Biology
+    institution: University of Arizona
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,13 +34,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:cw2622@cumc.columbia.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: 'mailto:krk2151@cumc.columbia.edu'
+- icon: linkedin
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=ZsYadcIAAAAJ&hl=en
+  link: https://www.linkedin.com/in/konner-kirwan-6197981b3/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -51,7 +45,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: cw2622@cumc.columbia.edu
+email: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -62,4 +56,4 @@ user_groups:
 - Graduate Students
 ---
 
-Clarissa Waites is an associate professor of neuroscience at Columbia Unversity Irving Medical Center in the William Black Building. Her research ...
+Konner is an NSF Fellow and third year PhD student in the Neurobiology and Behavior Program. He currently studies mechanisms of protein turnover and degradation, with a specific focus on the ESCRT pathway. Outside the lab, Konner enjoys running, hiking,  videogames, and watching sunsets.
