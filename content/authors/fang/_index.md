@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fang Du, PhD
+title: Fang Du, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
