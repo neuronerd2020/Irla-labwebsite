@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qing
+title: Qing Yu, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
