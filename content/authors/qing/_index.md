@@ -6,7 +6,7 @@ title: Qing Yu, Ph.D.
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow in the WHATEVER department
+role: Postdoctoral Fellow in the Pathology Department
 
 # Organizations/Affiliations
 organizations:
@@ -23,12 +23,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Neuroscience
-    institution: University of California, San Francisco
-    year: do you want the year?
-  - course: BS in Biological Sciences
-    institution: Stanford University
-    year: do you want the year?
+  - course: 
+    institution:
+    year:
+  - course: 
+    institution: 
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
