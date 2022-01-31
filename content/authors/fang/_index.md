@@ -6,7 +6,7 @@ title: Fang Du, Ph.D.
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow in the Pathology Department
+role: Associate Research Scientist
 
 # Organizations/Affiliations
 organizations:
