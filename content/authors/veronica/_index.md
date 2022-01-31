@@ -20,9 +20,9 @@ bio:
 
 education:
   courses:
-  - course: PhD in Neuroscience
-    institution: University of California, San Francisco
-    year: do you want the year?
+  - course: PhD in Neurobiology and Behavior
+    institution: Columbia University
+    year: 2020
   - course: BA in Neuroscience, Molecular Biology
     institution: Wesleyan University
     year: 2015
