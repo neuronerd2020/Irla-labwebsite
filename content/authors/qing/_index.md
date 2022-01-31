@@ -6,7 +6,7 @@ title: Qing Yu, Ph.D.
 superuser: true
 
 # Role/position
-role: Associate Research Scientist in the Pathology Department
+role: Associate Research Scientist
 
 # Organizations/Affiliations
 organizations:
