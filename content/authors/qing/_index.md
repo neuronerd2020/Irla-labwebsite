@@ -6,7 +6,7 @@ title: Qing Yu, Ph.D.
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow in the Pathology Department
+role: Associate Research Scientist in the Pathology Department
 
 # Organizations/Affiliations
 organizations:
