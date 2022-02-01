@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: <b><font size="-0.05"> The Waites lab studies protein turnover and degradation in the nervous system </b></font>
+title: <b><font size="1"> The Waites lab studies protein turnover and degradation in the nervous system </b></font>
 
 hero_media: Waiteslab.JPG
 design:
