@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- Current Members
 ---
 Prior to joining the Waites lab, Qing completed her M.D. and Ph.D. at the West China School of Stomatology at Sichuan University. During her training, she was part of an exchange program at Kansas University and investigated the role of mitochondrial dysfunction in Alzheimer's disease (AD) pathogenesis. In the Waites Lab, Qing continues to explore new therapeutic strategies for treatment of neurodegenerative disorders, such as Alzheimer's disease (AD). When she’s not in lab, you can find Qing chasing down her baby, hiking, baking cakes, or trying new food.
