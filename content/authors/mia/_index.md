@@ -56,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- <p style="color:white"> Current </p>
 ---
 
 Mia graduated with a BS in Biological Sciences and received University Honors from Carnegie Mellon University in 2020. As an undergraduate, she dabbled in various fields of biological research, first studying circadian gene regulation in plants and later characterizing several major transcription factors of the fungal pathogen, Candida albicans. Subsequently, as a research intern at Harvard Medical School, she elucidated brain-wide expression profiles of complement proteins during development and schizophrenia. This work inspired her application to grad school and her interests in glial cell biology, as well as communication between the immune and central nervous systems. Since joining the Waites lab in May 2021, Mia has been investigating the contribution of glial cells and the ceramide pathway to the production of pathogenic exosomes in Alzheimer’s Disease. Outside of the lab, you can find Mia checking out local bookstores, cooking up new recipes, or walking through Central Park.
