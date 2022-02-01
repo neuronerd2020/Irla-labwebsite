@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qing Yu, Ph.D.
+title: Qing Yu, M.D.-Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,19 +14,19 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests ..............??
+bio: 
 
 interests:
-- Microglia
-- Neurons
-- Zonkeys
+
 
 education:
-  - institution: West China School of Stomatology, Sichuan University
-    year: 2012 to 2017
-  - course: 
-    institution: 
-    year: 
+  courses:
+  - course: Ph.D. in Stomatology, M.D.
+    institution: West China School of Stomatology, Sichuan University
+    year: 2017
+  - course: Ph.D. exchange student
+    institution: Kansas University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,6 +36,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:qy2239@cumc.columbia.edu'
+- icon: twitter
+  icon_pack: fab
+  link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ZsYadcIAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,5 +59,4 @@ highlight_name: false
 user_groups:
 - Postdocs
 ---
-
-Prior to joining the Waites lab, Qing completed her Ph.D, studying at the West China School of Stomatology and Kansas University, as an exchange student. In the Waites lab, she investigates the role of mitochondrial dysfunction in Alzheimer's disease (AD) pathogenesis. She explores new therapeutic strategies for the treatment of neurodegenerative disorders, such as Alzheimer's disease (AD). When she’s not at lab, you can find Qing chasing down her baby, hiking, baking cakes, or trying new food.
+Prior to joining the Waites lab, Qing completed her M.D. and Ph.D. at the West China School of Stomatology at Sichuan University. During her training, she was part of an exchange program at Kansas University and investigated the role of mitochondrial dysfunction in Alzheimer's disease (AD) pathogenesis. In the Waites Lab, Qing continues to explore new therapeutic strategies for treatment of neurodegenerative disorders, such as Alzheimer's disease (AD). When she’s not in lab, you can find Qing chasing down her baby, hiking, baking cakes, or trying new food.
