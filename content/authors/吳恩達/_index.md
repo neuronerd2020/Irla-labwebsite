@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <p style="color:white">Z</p>Irla Belli
+title: Irla Belli
 
 # Username (this should match the folder name)
 authors:
