@@ -55,7 +55,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Members
+- 
 ---
 
 Irla Belli began as a research technician in the Waites Lab after graduating from Harvard College. In the Waites lab, she manages the administrative aspect of the lab while contributing to several projects including studying the exosome release of cortical and hippocampal neurons in an effort to tease apart the interneuronal communication pathways that lead to the spread of pathogenic substances like tau in AD. She is interested in pursuing an MD/PhD. During her free time, Irla loves to explore the NYC food scene, try out coffee shops (she has a running list of the best and worst coffee shops around), weight train, run, brew beer (and taste beer), and do yoga. 
