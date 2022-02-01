@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- Current Members
 ---
 
 Konner is an NSF Fellow and third year PhD student in the Neurobiology and Behavior Program. He currently studies mechanisms of protein turnover and degradation, with a specific focus on the ESCRT pathway. Outside the lab, Konner enjoys running, hiking,  videogames, and watching sunsets.
