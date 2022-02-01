@@ -6,7 +6,7 @@ title: Clarissa Waites, Ph.D.
 superuser: true
 
 # Role/position
-role: Associate Professor of Pathology & Cell Biology (in the Taub Institute for Research on Alzheimer’s Disease and the Aging Brain); Associate Professor of Neuroscience
+role: Associate Professor of Pathology & Cell Biology, Neuroscience
 
 # Organizations/Affiliations
 organizations:
