@@ -22,10 +22,8 @@ interests:
 - Zonkeys
 
 education:
-  courses:
-  - course: 
-    institution:
-    year:
+  - institution: West China School of Stomatology, Sichuan University
+    year: 2012 to 2017
   - course: 
     institution: 
     year: 
@@ -37,13 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:cw2622@cumc.columbia.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=ZsYadcIAAAAJ&hl=en
+  link: 'mailto:qy2239@cumc.columbia.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +54,4 @@ user_groups:
 - Postdocs
 ---
 
-Qing is a post doc in the lab studying...
+Prior to joining the Waites lab, Qing completed her Ph.D, studying at the West China School of Stomatology and Kansas University, as an exchange student. In the Waites lab, she investigates the role of mitochondrial dysfunction in Alzheimer's disease (AD) pathogenesis. She explores new therapeutic strategies for the treatment of neurodegenerative disorders, such as Alzheimer's disease (AD). When she’s not at lab, you can find Qing chasing down her baby, hiking, baking cakes, or trying new food.
