@@ -16,22 +16,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests ..............??
 
-interests:
-- Microglia
-- Neurons
-- Zonkeys
-
 education:
   courses:
-  - course: PhD in Physiology
-    institution: School of Biomedical Sciences, Chinese University of Hong Kong
-    year: 
   - course: Doctor of Medicine (M.D.)
     institution: Nantong University
     year: 
   - course: Masters in Applied Biochemistry
     institution: Nantong University
     year: 
+  - course: PhD in Physiology
+    institution: School of Biomedical Sciences, Chinese University of Hong Kong
+    year: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
