@@ -23,11 +23,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Neuroscience
-    institution: 
+  - course: PhD in Physiology
+    institution: School of Biomedical Sciences, Chinese University of Hong Kong
     year: 
-  - course: 
-    institution: 
+  - course: Doctor of Medicine (M.D.)
+    institution: Nantong University
+    year: 
+  - course: Masters in Applied Biochemistry
+    institution: Nantong University
     year: 
 
 # Social/Academic Networking
@@ -37,13 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:cw2622@cumc.columbia.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=ZsYadcIAAAAJ&hl=en
+  link: 'mailto:fd2479@cumc.columbia.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +59,4 @@ user_groups:
 - Current Members
 ---
 
-Fang is a postdoc in the lab studying
+Fang received his doctorate from the Chinese University of Hong Kong. He was then trained at the State University of New York, Stony Brook, as a postdoctoral fellow. In November 2021, he joined Professor Waites’s Laboratory. Scientifically, he is interested in understanding pathogenesis and exploring new therapeutic strategies for treatment of neurodegenerative disorders such as Alzheimer's disease (AD) and Parkinson’s disease (PD). Fang loves cooking, hiking and traveling with his baby. 
