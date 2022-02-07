@@ -36,7 +36,7 @@ featured: true
 links:
 - name: Custom Link
   url: https://www.proquest.com/docview/2607467265?fromopenview=true&parentSessionId=6vcqXYVwgmCi5wMQslLMv8zz5x3v0GaoL2zWWZO%2FoE8%3D&pq-origsite=gscholar&accountid=10226#
-url_url: https://www.proquest.com/docview/2607467265?fromopenview=true&parentSessionId=6vcqXYVwgmCi5wMQslLMv8zz5x3v0GaoL2zWWZO%2FoE8%3D&pq-origsite=gscholar&accountid=10226#
+url: https://www.proquest.com/docview/2607467265?fromopenview=true&parentSessionId=6vcqXYVwgmCi5wMQslLMv8zz5x3v0GaoL2zWWZO%2FoE8%3D&pq-origsite=gscholar&accountid=10226#
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
