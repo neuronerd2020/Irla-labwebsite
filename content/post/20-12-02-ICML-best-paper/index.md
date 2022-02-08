@@ -1,5 +1,5 @@
 ---
-title: Graduate Student Tori Zhuravleva Successfully Defends Thesis Titled------ 
+title: Graduate Student Tori Zhuravleva Successfully Defends Thesis
 date: 2021-08-26
 image:
   focal_point: "top"
