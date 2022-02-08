@@ -26,22 +26,8 @@ publication_types: ["2"]
 publication: In *Cell Death and Disease*
 publication_short: In *Cell Death and Disease*
 
-# Summary. An optional shortened abstract.
-# figure out how to link the pdf or just link the website for the various articles
-
-tags:
-- Source Themes
-featured: true
-
 links:
 - name: Article Link
   url: https://www.proquest.com/docview/2607467265?fromopenview=true&parentSessionId=6vcqXYVwgmCi5wMQslLMv8zz5x3v0GaoL2zWWZO%2FoE8%3D&pq-origsite=gscholar&accountid=10226#
 url_url: https://www.proquest.com/docview/2607467265?fromopenview=true&parentSessionId=6vcqXYVwgmCi5wMQslLMv8zz5x3v0GaoL2zWWZO%2FoE8%3D&pq-origsite=gscholar&accountid=10226#
 
-
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
