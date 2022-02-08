@@ -1,10 +1,9 @@
 ---
-title: Fifth Year Graduate Student Viktoriya Zhuravleva Defends Thesis Titled
+title: Konner Successfully Completes Qualifying Exam!
 date: 2021-08-26
 ---
 
-Congratulations to Tori on defending her thesis this upcoming thursday! 
+Congratulations Konner on earning your M.S. and M.Phil after all your hardwork! 
 
 <!--more-->
 
-whatever tori or clarissa want written here about the defense also insert pictures for the defense too 
