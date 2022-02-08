@@ -29,9 +29,6 @@ publication_short: In *Cell Death and Disease*
 
 # Summary. An optional shortened abstract.
 
-tags:
-- Source Themes
-featured: false
 
 links:
 - name: Article Link
