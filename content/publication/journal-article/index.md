@@ -29,7 +29,11 @@ publication_short: In *Cell Death and Disease*
 
 # Summary. An optional shortened abstract.
 
-
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
 projects:
 
 links:
