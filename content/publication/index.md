@@ -1,5 +1,5 @@
 ---
- <p style="font-family:timesnewroman">title: "Allosteric modulation of AMPA receptors counteracts Tau-related excitotoxic synaptic signaling and memory deficits in stress- and Aβ-evoked hippocampal pathology. "
+title: "Allosteric modulation of AMPA receptors counteracts Tau-related excitotoxic synaptic signaling and memory deficits in stress- and Aβ-evoked hippocampal pathology. "
 authors:
 - Daniela Monteiro-Fernandes
 - Joana Margarida Silva
@@ -36,5 +36,5 @@ publication_short: In *Mol Psychiatry*
 links:
 - name: Article Link
   url: https://pubmed.ncbi.nlm.nih.gov/32467647/
-</p>
+  
 ---
