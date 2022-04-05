@@ -30,5 +30,5 @@ publication: In *Neuron*
 
 links:
 - name: Article Link
-url: https://pubmed.ncbi.nlm.nih.gov/16301178/
+  url: https://pubmed.ncbi.nlm.nih.gov/16301178/
 ---
